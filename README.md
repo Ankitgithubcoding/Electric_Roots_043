@@ -1,7 +1,7 @@
 
 # **HR Analytics Project**  
 
-![Dashboard Preview](ER1.jpg)  
+<img src="HomePage.jpg" alt="isolated" width="200"/> 
 *Dynamic Power BI Dashboard*  
 
 ---
