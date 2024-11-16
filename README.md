@@ -80,6 +80,7 @@ df.to_sql('DimDate', conn, index=False, if_exists='replace')
 ## **Key Visualizations**  
 
 1. **Home Dashboard**
+   
    <img src="HomePage.jpg" alt="isolated" width="400"/>    
 
 3. **Attrition Summary**
@@ -89,7 +90,8 @@ df.to_sql('DimDate', conn, index=False, if_exists='replace')
    - Attrition by Education, Salary, and Job Role.  
    - Trends in employee attrition over the years.  
 <img src="AttritionPage.jpg" alt="isolated" width="400"/>
-5. **Employee Summary**
+
+4. **Employee Summary**
      - Total Employees: **1,470**  
    - Attrition Rate: **16.1%**  
    - Gender Ratio: **Male (651) | Female (675)**
