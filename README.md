@@ -1,8 +1,8 @@
 
 # **HR Analytics Project**  
 
-<img src="HomePage.jpg" alt="isolated" width="200"/> <img src="AttritionPage.jpg" alt="isolated" width="200"/>
-<img src="EmployeePage" alt="isolated" width="200"/>
+<img src="HomePage.jpg" alt="isolated" width="400"/> <img src="EmployeePage.jpg" alt="isolated" width="400"/> <img src="AttritionPage.jpg" alt="isolated" width="400"/>
+
 *Dynamic Power BI Dashboard*  
 
 ---
